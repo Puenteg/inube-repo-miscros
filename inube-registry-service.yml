@@ -1,4 +1,4 @@
-server:
+server: 8106
   port:
   
 spring:
