@@ -1,5 +1,5 @@
-server: 8106
-  port:
+server: 
+  port: 8106
   
 spring:
 	application:
